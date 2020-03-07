@@ -1,0 +1,12 @@
+{
+  "name": "simple-react-animating-number",
+  "version": "1.0.0",
+  "description": "simple react animating number",
+  "main": "index.tsx",
+  "repository": "https://github.com/ucheol2/simple-react-animating-number",
+  "author": "ucheol2",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.0"
+  }
+}
